@@ -1,3 +1,3 @@
-h = "HELLO WORLD!"
+h = input("Please input words: ")
 
 print(h)
